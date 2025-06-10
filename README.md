@@ -19,11 +19,14 @@ O A\* utiliza duas componentes principais:
 
 A função de avaliação é: f(n) = g(n) + h(n)
 
+--
+
 📚 Requisitos
 Python 3.8+
 
 Nenhuma biblioteca externa necessária (apenas heapq da biblioteca padrão)
 
+--
 
 ✅ Como executar
 python .\recommendation-algorithm.py      
